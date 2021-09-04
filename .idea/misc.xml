@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/1.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/correctOption.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/correctoption1.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/option.xml" value="0.1" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/question_option.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/selectedOption.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/selectedoption1.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/wrongOption.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/drawable/wrongoption1.xml" value="0.21614583333333334" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/layout/activity_main.xml" value="0.12" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/layout/activity_question.xml" value="0.1" />
+        <entry key="..\:/project1/Quizapp/app/src/main/res/layout/activity_result.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
